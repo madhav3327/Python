@@ -43,12 +43,10 @@ print(answer)
 
 #3.
 
-data = "Madhav"
-print(data[0])
-
+data = "MadhavvahdaM"
 def ispalindrom(msg):
-    n=len(msg)
-    print(n)
+    n=len(msg)-1
+   
     i=0
     while(True):
        if(msg[n]!=msg[i]):
@@ -57,7 +55,11 @@ def ispalindrom(msg):
         return True
        n=n-1
        i=i+1 
-
 result=ispalindrom(data);
 print(result)
         
+#4.
+def defaultfun(name="Human"):
+    print(f'Hi {name} its good to see you!')
+defaultfun("Madhav")
+defaultfun()
