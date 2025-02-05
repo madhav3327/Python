@@ -21,3 +21,9 @@ print("Hi this is Madhav's channel and the name is \"MCA\"")
 print("my channel name is \"MCA\"")
 
 
+# varibale
+# datatype
+# controlflow
+# loops
+# functions
+# datatype adv - list, tuple, set, dictionary

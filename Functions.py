@@ -63,3 +63,8 @@ def defaultfun(name="Human"):
     print(f'Hi {name} its good to see you!')
 defaultfun("Madhav")
 defaultfun()
+
+#5.
+lambdaFun = lambda a,b : a*b
+
+print(lambdaFun(4,5))
