@@ -22,7 +22,7 @@ num2=34
 result= sum(num1, num2);
 print("the result of those numbers is "+ str(result))
 
-#2.
+#2.kdcbsjk
 
 # num3= int(input("Enter first number"))
 # num4= int(input("Enter second number"))

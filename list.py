@@ -36,4 +36,3 @@ print(min(num))
 print(temp1)
 
 # em chestham llee manchi ga edit chedham edhaina  food vlog and room tour chedham  
-# i am also changung this 

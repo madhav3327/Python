@@ -27,3 +27,5 @@ print("my channel name is \"MCA\"")
 # loops
 # functions
 # datatype adv - list, tuple, set, dictionary
+
+# hi ksdjnksj
